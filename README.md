@@ -6,9 +6,16 @@
 [![Build Status](https://github.com/xavi-group/bob/actions/workflows/golang-test.yml/badge.svg?branch=main)](https://github.com/xavi-group/bob/actions/workflows/golang-test.yml)
 [![codecov.io](https://codecov.io/github/xavi-group/bob/coverage.svg?branch=main)](https://codecov.io/github/xavi-group/bob?branch=main)
 
-`bob` is a bconf compatible wrapper around OpenTelemetry and Zap that provides functions and structures for
+`bob` is a bconf compatible wrapper around OpenTelemetry and Zap that provides functions and observers that provide
 application logging and telemetry.
 
 ```sh
 go get github.com/xavi-group/bob
 ```
+
+## Getting Started
+
+```go
+```
+
+## 

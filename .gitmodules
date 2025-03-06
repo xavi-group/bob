@@ -1,0 +1,6 @@
+[submodule "bobzap"]
+	path = bobzap
+	url = https://github.com/xavi-group/bobzap
+[submodule "bobotel"]
+	path = bobotel
+	url = https://github.com/xavi-group/bobotel
